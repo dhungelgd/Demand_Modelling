@@ -25,7 +25,7 @@ from post_process.post_process import *
 
 #Set the year and the month number you want to simulate
 year = 2022
-month = 1
+month = 3
 full_month = True
 # Calls the stochastic process and saves the result in a list of stochastic profiles
 # In this default example, the model runs for 2 input files ("input_file_1", "input_file_2"),
